@@ -1,1 +1,3 @@
-Welcome to the dc_cc_analyzer wiki!
+Visite a página "SUT Final" para obter os resultados da execução do SUT Final
+
+Visite a página "Requisitos" para acessar os requisitos do software.
