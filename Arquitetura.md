@@ -14,7 +14,7 @@ Também é possível representar o comportamento da ferramenta através de um ma
 
 <img width="429" alt="process_map" src="https://github.com/user-attachments/assets/d496e3ef-5469-4ad1-94db-5a1f8d0f5d76">
 
-# Rede de Petri
+# Redes de Petri
 
 Uma outra forma de representar o comportamento esperado é através de Redes de Petri, que utilizam o conceito de estados, transições e fichas para definir o sistema. Nesta aplicação as transições são acionadas através do script principal de controle. Essa representação está presente na figura a seguir.
 
