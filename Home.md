@@ -1,3 +1,6 @@
+# Contexto
+Este projeto faz parte do TCC do [Programa de Especialização em Software (PES)](https://embraer.com/br/pt/pes), uma iniciativa da Embraer em parceria com a Universidade Federal de Pernambuco (UFPE).
+
 # Requisitos
 Visite a página [Requisitos](https://github.com/GabrielSSAraujo/dc_cc_analyzer/wiki/Requisitos) para acessar os requisitos da ferramenta.
 
