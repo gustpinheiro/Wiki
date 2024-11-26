@@ -7,5 +7,5 @@ Visite a página [Arquitetura](https://github.com/GabrielSSAraujo/dc_cc_analyzer
 # Estudo de caso
 Visite a página [Estudo de Caso: SUT Final](https://github.com/GabrielSSAraujo/dc_cc_analyzer/wiki/Estudo-de-Caso:-SUT-Final) para acessar uma análise sobre uma execução da ferramenta.
 
-# Qualificação
-Para informações sobre a qualificação desta ferramenta, acesse a página [Qualificação da Ferramenta](https://github.com/GabrielSSAraujo/dc_cc_analyzer/wiki/Qualifica%C3%A7%C3%A3o-da-Ferramenta).
+# Qualificação e Testes
+Para informações sobre a qualificação desta ferramenta e seus testes, acesse a página [Qualificação da Ferramenta e Testes](https://github.com/GabrielSSAraujo/dc_cc_analyzer/wiki/Qualifica%C3%A7%C3%A3o-da-Ferramenta-e-Testes)
