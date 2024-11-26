@@ -15,7 +15,9 @@ Para o processo de teste, foi adotada a metodologia de testes baseados em requis
 
 No caso do requisito não funcional, foi elaborado um passo-a-passo detalhado contendo as etapas necessárias para a execução da ferramenta em diferentes ambientes operacionais. Essa documentação inclui descrições textuais e representações visuais dos resultados esperados em caso de sucesso, estando devidamente registrados na pasta [tests/users_perspective](https://github.com/GabrielSSAraujo/dc_cc_analyzer/tree/main/tests/users_perspective). Os testes para cobrir o requisito não funcional permitiram a cobertura de alguns requisitos funcionais (REQ-2, REQ-13 e REQ-14).
 
-Já para os demais requisitos, utilizou-se o framework `unittest`, disponibilizado em Python. Este framework foi selecionado por oferecer um conjunto robusto e de fácil utilização para a construção e execução de testes unitários, possibilitando a organização e execução eficiente de suítes de testes. É possível acessar os testes desenvolvidos acessando a pasta [tests](https://github.com/GabrielSSAraujo/dc_cc_analyzer/tree/main/tests) deste repositório.
+Já para os demais requisitos, utilizou-se o framework `unittest`, disponibilizado em Python. Este framework foi selecionado por oferecer um conjunto robusto e de fácil utilização para a construção e execução de testes unitários, possibilitando a organização e execução eficiente de suítes de testes. É possível acessar os testes desenvolvidos acessando a pasta [tests](https://github.com/GabrielSSAraujo/dc_cc_analyzer/tree/main/tests) deste repositório. 
+
+Vale mencionar que se buscou gerar testes para cobrir os requisitos em condições normais e de robustez, entretanto não foi possível fazê-lo para todos os requisitos, pois, em alguns casos, não foi possível identificar condições de robustez. Para mais detalhes de caso a caso, acesse a planilha de requisitos na página [Requisitos](https://github.com/GabrielSSAraujo/dc_cc_analyzer/wiki/Requisitos).
 
 ## Como rodar
 
