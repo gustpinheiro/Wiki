@@ -1,6 +1,6 @@
 # Visão geral
 
-No total, foram gerados 20 requisitos para a ferramenta, sendo 1 não funcional e 19 funcionais. Dentre os funcionais, 6 são referentes às entradas e ao tratamento das entradas do software, 5 são referentes à sua lógica interna e 8 são referentes às suas saídas, em especial, ao conteúdo do relatório. Os requisitos foram organizados em uma planilha, a qual pode ser acessada pela link a seguir: [requisitos.xlsx](https://github.com/user-attachments/files/17910078/requisitos.xlsx).
+No total, foram gerados 20 requisitos para a ferramenta, sendo 1 não funcional e 19 funcionais. Dentre os funcionais, 6 são referentes às entradas e ao tratamento das entradas do software, 5 são referentes à sua lógica interna e 8 são referentes às suas saídas, em especial, ao conteúdo do relatório. Os requisitos foram organizados em uma planilha, a qual pode ser acessada pela link a seguir: [requisitos.xlsx](https://github.com/user-attachments/files/17910652/requisitos.xlsx)
 
 
 
